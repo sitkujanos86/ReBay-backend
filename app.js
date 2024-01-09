@@ -19,3 +19,10 @@ server.use(router);
 server.listen(PORT, () => {
   console.log(`JSON Server is running at port ${PORT}`);
 });
+
+app.use(
+  cors({
+    origin: process.env.FRONTEND_URL,
+    credentials: true
+  })
+);
