@@ -1,33 +1,36 @@
 {
-  "projects": [
+  "items": [
     {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "name": "Smartwatch",
+      "description": "You can check time with it.",
+      "picture": "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/devices/versa-4/device-360/black/prod0.png",
+      "category": "Tech",
+      "price": "100",
+      "id": 1
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "name": "Jeans",
+      "description": "You wear it on your legs.",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Levi%27s_501_raw_jeans.jpg/800px-Levi%27s_501_raw_jeans.jpg",
+      "category": "Clothes",
+      "price": 42
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "name": "T-Shirt",
+      "description": "You wear it on your torso.",
+      "picture": "https://www.totalprotex.it/media/catalog/product/cache/default/image/500x500/9df78eab33525d08d6e5fb8d27136e95/a/n/anti-static-esd-t-shirt-0_3.jpg",
+      "category": "Clothes",
+      "price": 37
+    },
+    {
+      "name": "iPhone",
+      "description": "You can call",
+      "picture": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-13-pro-max-graphite-2023?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1679072989055",
+      "category": "tech",
+      "price": "500",
+      "id": 4
     }
   ]
 }
