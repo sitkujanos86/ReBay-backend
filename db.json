@@ -5,7 +5,7 @@
       "description": "You can check time with it.",
       "picture": "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/devices/versa-4/device-360/black/prod0.png",
       "category": "Tech",
-      "price": "100",
+      "price": "120",
       "id": 1
     },
     {
@@ -14,7 +14,7 @@
       "description": "You wear it on your legs.",
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Levi%27s_501_raw_jeans.jpg/800px-Levi%27s_501_raw_jeans.jpg",
       "category": "Clothes",
-      "price": 42
+      "price": 45
     },
     {
       "id": 3,
